@@ -9,7 +9,6 @@ ul{
     list-style:none;
 text-align:center;
 background-color:black;
-
 }
 
 li{
@@ -17,5 +16,12 @@ li{
     padding-top:30px;
     padding-left:10px;
     padding-right:10px;
+}
+
+p{
+    margin:auto;
+    width:50%;
+    margin-top: 30px;
+    text-align:center;
 
 }
